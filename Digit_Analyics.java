@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class Digit_Analyics{
     public static void main(String [ ] args){
-        Scanner sc= new scanner(System.in);
+        Scanner sc= new Scanner(System.in);
         System.out.print("Enter a number: ");
         int number = sc.nextInt();
         int original = number;
